@@ -1,0 +1,27 @@
+html, body {height: 100%;}
+html {display: table;margin: auto;}
+body{font-family: "Lucida Console", "Courier New", monospace;font-size: 14px;  margin: auto;
+    background-color: #0D0D0D;
+    color: #F2B3EE;
+    width: 640px; 
+    padding: 50px;}
+h1{font-size: 48px;font-family: "Space Mono", monospace;}
+h2{font-size: 30px;font-family: "Space Mono", monospace;}
+h3{font-family: "Space Mono", monospace;font-size: 24px;}
+h4{font-size: 18px;font-family: "Space Mono", monospace;}
+img{
+width: 300;
+height: 300;
+}
+div {
+    display: flex;
+    justify-content: center;
+    }
+    tr{
+        color: #F2B3EE; 
+    }
+    tr:hover{
+        background-color: #D9CAAD;
+        color:  #0D0D0D;
+    
+    }
