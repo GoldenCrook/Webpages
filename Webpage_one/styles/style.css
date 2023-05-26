@@ -1,17 +1,42 @@
-html, body {height: 100%;}
+    /* text color: #F2B3EE; 
+    background color: #0D0D0D;
+    accent color: #D9CAAD; */
 
+html, body {height: 100%;}
 html {display: table;margin: auto;}
 body{
     background-color: #0D0D0D;
     color: #F2B3EE;
     font-family: "Lucida Console", "Courier New", monospace;font-size: 14px;
-align-content: center;
-display: table-cell;
-vertical-align: middle;}
+    align-content: center;
+    display: table-cell;
+    vertical-align: middle;}
 h1{font-size: 48px;font-family: "Space Mono", monospace;}
 h2{font-size: 30px;font-family: "Space Mono", monospace;}
 h3{font-family: "Space Mono", monospace;font-size: 24px;}
-.icons img{
-width: 150;
-height: 150;
+img{ width: 150; height: 150;
+    padding: 15px;}
+aside{
+    text-align: center;
+    border: 2px solid #D9CAAD;
+    margin-top: 95px;
+    margin-bottom: 95px;
+    margin-left: 95px;
+    margin-right: 95px;
 }
+
+
+/* character gallery selection */
+.gallery{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 15px;
+    padding: 15px;
+    justify-content: center;
+}
+.gallery > a {
+    width: 180px;
+    height: auto;
+    border: 1px double #D9CAAD; }
+    
+.desc{text-align: center;}
