@@ -2,15 +2,16 @@
     background color: #0D0D0D;
     accent color: #D9CAAD; */
 
-html, body {height: 100%;}
-html {display: table;margin: auto;}
+/* html, body {height: 100%;}
+html {display: table;margin: auto;} */
 body{
     background-color: #0D0D0D;
     color: #F2B3EE;
     font-family: "Lucida Console", "Courier New", monospace;font-size: 14px;
-    align-content: center;
+    /* align-content: center;
     display: table-cell;
-    vertical-align: middle;}
+    vertical-align: middle; */
+}
 h1{font-size: 48px;font-family: "Space Mono", monospace;}
 h2{font-size: 30px;font-family: "Space Mono", monospace;}
 h3{font-family: "Space Mono", monospace;font-size: 24px;}
@@ -25,6 +26,11 @@ aside{
     margin-right: 95px;
 }
 
+.intro{
+    padding: 55px;
+    margin: 30px;
+    text-align: center;
+}
 
 /* character gallery selection */
 .gallery{
@@ -40,3 +46,16 @@ aside{
     border: 1px double #D9CAAD; }
     
 .desc{text-align: center;}
+
+a>p:hover{
+    background-color: #D9CAAD ;
+    color:#0D0D0D;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited,
+a:hover, 
+a:active{
+    color:inherit;
+}
