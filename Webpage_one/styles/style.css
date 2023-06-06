@@ -12,24 +12,25 @@ body{
     display: table-cell;
     vertical-align: middle; */
 }
-h1{font-size: 48px;font-family: "Space Mono", monospace;}
+h1{font-size:48px;font-family: "Space Mono", monospace;}
 h2{font-size: 30px;font-family: "Space Mono", monospace;}
 h3{font-family: "Space Mono", monospace;font-size: 24px;}
 img{ width: 150; height: 150;
     padding: 15px;}
-aside{
-    text-align: center;
-    border: 2px solid #D9CAAD;
-    margin-top: 95px;
-    margin-bottom: 95px;
-    margin-left: 95px;
-    margin-right: 95px;
+#preface{
+    border: 5px dotted #0D0D0D;
+    min-width: 45em;
+    max-width: 55em;
+    margin: 4.5em auto;
+    text-align: justify;
 }
 
 .intro{
-    padding: 55px;
-    margin: 30px;
-    text-align: center;
+    border: 5px dotted #0D0D0D;
+    min-width: 45em;
+    max-width: 55em;
+    margin: 4.5em auto;
+    text-align: justify;
 }
 
 /* character gallery selection */
@@ -53,9 +54,70 @@ a>p:hover{
 }
 a:link{
     text-decoration: none;
+    color: #D9CAAD;
 }
 a:visited,
 a:hover, 
 a:active{
     color:inherit;
 }
+
+footer{text-align: center;}
+
+
+
+.container1{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items:flex-start;
+    width: 75em;
+    padding: 55px;
+    margin: 25px;
+    text-align: left;
+}
+.container2{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 75em;
+    padding-right: 55px;
+    margin: 25px;
+    text-align: right;}
+ul{
+    list-style-type: none;
+}
+.container3{display:flex; flex-wrap: nowrap; 
+background-image: url(/Webpage_one/cupcake/images/FNaFAR.jpg);
+background-size: 100px;
+background-repeat:no-repeat;
+background-position: center top;}
+.container3>.content{
+    max-width: auto;
+    margin: 15px;
+    padding: 10px;
+    border: 1px dotted #D9CAAD;
+    
+}
+.card { position: relative; } 
+.text-block {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    text-shadow: 2px 2px #0D0D0D;
+    color: #F2B3EE;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#extra{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+td,
+th {
+    width: 85em;
+    border: 1px double #D9CAAD;
+    margin: 5px 5px;
+    padding: 5px 5px; 
+    align-items: center;}

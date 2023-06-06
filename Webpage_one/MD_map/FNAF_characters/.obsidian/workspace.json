@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9ecf4e128228862a",
+        "id": "f5d558ab2a31c519",
         "type": "tabs",
         "children": [
           {
-            "id": "9faf7373ef7b975b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a86eeb01fd22206",
+            "id": "4cc7013aa5753cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Classics.md",
+                "file": "W.Freddy.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5efd6f51137835ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -54,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -101,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "W.Freddy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +97,24 @@
             }
           },
           {
+            "id": "36d2617e5db6c59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "16207c2249b0fe9e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "W.Freddy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +136,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "W.Freddy.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,13 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9faf7373ef7b975b",
+  "active": "4cc7013aa5753cc9",
   "lastOpenFiles": [
-    "Bonnie the Rabbit.md",
-    "The Classics.md",
-    "The Animatronics.md",
+    "The Withered.md",
+    "cupcake.md",
+    "Chica.md",
+    "W.Freddy.md",
+    "W.Chica.md",
+    "W.Foxy.md",
+    "W.Bonnie.md",
     "Freddy Fazbear.md",
+    "Layout.md",
+    "The Animatronics.md",
     "The bots.md",
+    "The Classics.md",
+    "Foxy.md",
+    "Bonnie the Rabbit.md",
     "Electronic Toys.md",
     "Untitled.canvas"
   ]

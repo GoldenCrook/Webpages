@@ -5,11 +5,12 @@ They are designed to resemble life-like anthropomorphic creatures, including ani
 Equipped with movable limbs, voice boxes, and protective suit "armors," they are commonly used for entertainment in public establishments like restaurants.
 Some animatronics, like those found in Sister Location, feature human heads designed to test facial expressions.
 1. [[The Classics]]:
-	Cupake *gets own main page when launch from main or index*
-2. Withered
-3. Toy
-4. Funtime
-5. spring lock
+	
+	1b. ?Mr.Cupake *gets own main page when launch from main or index*
+1. [[The Withered]]
+2. Toy
+3. Funtime
+4. spring lock
 	Spring Trap  *gets own main page when launch from main or index*
 6. Glamrock 
 	Daycare attendants

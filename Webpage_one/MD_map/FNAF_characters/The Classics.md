@@ -48,6 +48,7 @@ Notable Features: Known for approaching from the left side and has unpredictable
 Debut: First appeared in Five Nights at Freddy's and can become active as early as Night 1.
 
 ### Chica:
+[[Chica]]
 Description: A yellow animatronic chicken wearing a bib that says "LET'S EAT!" Carries an anthropomorphic pink cupcake.
 
 Notable Features: Often found in the kitchen, approaches players from the right side.
@@ -55,9 +56,11 @@ Notable Features: Often found in the kitchen, approaches players from the right 
 Debut: First appeared in Five Nights at Freddy's and becomes active later on Night 1. Confirmed to be possessed by Susie in the Fazbear Frights story "Coming Home."
 
 ### Foxy:
+[[Foxy]]
 Description: An animatronic pirate fox with an eye patch over his right eye and a hook for his right hand.
 
 Notable Features: Housed in Pirate Cove, separate from other animatronics. Operates differently, advancing in phases before attacking.
 
 Debut: First appeared in Five Nights at Freddy's and becomes fairly active on Night 2.
 These animatronics, with their unique appearances and behaviors, contribute to the eerie atmosphere and suspenseful gameplay of the Five Nights at Freddy's franchise. Each has their own role to play in the haunted pizzeria, adding to the mystery and horror that players must navigate and survive.
+
